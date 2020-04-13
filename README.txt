@@ -19,4 +19,3 @@ minus icon the contents show or hide appropriately. This helps with readability.
 5. A TOP button has been added dynamically which will show when we scroll down the page and clicking on it will take you to the top part of the page.
 
 To view this Dynamic Landing Page, open index.html on any browser and test the above points.
-# Landing-Page
